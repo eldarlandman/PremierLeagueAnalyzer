@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Mohamed Diamé",
+    "position": "Central Midfield",
+    "jerseyNumber": 15,
+    "dateOfBirth": "1987-06-14",
+    "nationality": "Senegal",
+    "contractUntil": "2019-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Matz Sels",
+    "position": "Keeper",
+    "jerseyNumber": 28,
+    "dateOfBirth": "1992-02-26",
+    "nationality": "Belgium",
+    "contractUntil": "2021-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Karl Darlow",
+    "position": "Keeper",
+    "jerseyNumber": 26,
+    "dateOfBirth": "1990-10-08",
+    "nationality": "England",
+    "contractUntil": "2020-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Rob Elliot",
+    "position": "Keeper",
+    "jerseyNumber": 21,
+    "dateOfBirth": "1986-04-30",
+    "nationality": "Ireland",
+    "contractUntil": "2020-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Chancel Mbemba",
+    "position": "Centre-Back",
+    "jerseyNumber": 18,
+    "dateOfBirth": "1994-08-08",
+    "nationality": "Congo DR",
+    "contractUntil": "2020-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Ciaran Clark",
+    "position": "Centre-Back",
+    "jerseyNumber": 2,
+    "dateOfBirth": "1989-09-26",
+    "nationality": "Ireland",
+    "contractUntil": "2021-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Grant Hanley",
+    "position": "Centre-Back",
+    "jerseyNumber": 5,
+    "dateOfBirth": "1991-11-20",
+    "nationality": "Scotland",
+    "contractUntil": "2021-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Jamaal Lascelles",
+    "position": "Centre-Back",
+    "jerseyNumber": 6,
+    "dateOfBirth": "1993-11-11",
+    "nationality": "England",
+    "contractUntil": "2020-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Curtis Good",
+    "position": "Centre-Back",
+    "jerseyNumber": 38,
+    "dateOfBirth": "1993-03-23",
+    "nationality": "Australia",
+    "contractUntil": "2018-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Paul Dummett",
+    "position": "Left-Back",
+    "jerseyNumber": 3,
+    "dateOfBirth": "1991-09-26",
+    "nationality": "Wales",
+    "contractUntil": "2018-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Achraf Lazaar",
+    "position": "Left-Back",
+    "jerseyNumber": 7,
+    "dateOfBirth": "1992-01-22",
+    "nationality": "Morocco",
+    "contractUntil": "2021-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Massadio Haidara",
+    "position": "Left-Back",
+    "jerseyNumber": 19,
+    "dateOfBirth": "1992-12-02",
+    "nationality": "France",
+    "contractUntil": "2018-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "DeAndre Yedlin",
+    "position": "Right-Back",
+    "jerseyNumber": 22,
+    "dateOfBirth": "1993-07-09",
+    "nationality": "United States",
+    "contractUntil": "2021-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Jesús Gámez",
+    "position": "Right-Back",
+    "jerseyNumber": 27,
+    "dateOfBirth": "1985-04-10",
+    "nationality": "Spain",
+    "contractUntil": "2018-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Jack Colback",
+    "position": "Defensive Midfield",
+    "jerseyNumber": 4,
+    "dateOfBirth": "1989-10-24",
+    "nationality": "England",
+    "contractUntil": "2019-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Vurnon Anita",
+    "position": "Defensive Midfield",
+    "jerseyNumber": 8,
+    "dateOfBirth": "1989-04-04",
+    "nationality": "Netherlands",
+    "contractUntil": "2017-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Isaac Hayden",
+    "position": "Defensive Midfield",
+    "jerseyNumber": 14,
+    "dateOfBirth": "1995-03-22",
+    "nationality": "England",
+    "contractUntil": "2021-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Jonjo Shelvey",
+    "position": "Central Midfield",
+    "jerseyNumber": 12,
+    "dateOfBirth": "1992-02-27",
+    "nationality": "England",
+    "contractUntil": "2021-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Matt Ritchie",
+    "position": "Right Midfield",
+    "jerseyNumber": 11,
+    "dateOfBirth": "1989-09-10",
+    "nationality": "Scotland",
+    "contractUntil": "2021-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Haris Vuckic",
+    "position": "Attacking Midfield",
+    "jerseyNumber": null,
+    "dateOfBirth": "1992-08-21",
+    "nationality": "Slovenia",
+    "contractUntil": "2017-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Yoan Gouffran",
+    "position": "Left Wing",
+    "jerseyNumber": 20,
+    "dateOfBirth": "1986-05-25",
+    "nationality": "France",
+    "contractUntil": "2017-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Rolando Aarons",
+    "position": "Left Wing",
+    "jerseyNumber": 16,
+    "dateOfBirth": "1995-11-16",
+    "nationality": "England",
+    "contractUntil": "2021-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Christian Atsu",
+    "position": "Right Wing",
+    "jerseyNumber": 30,
+    "dateOfBirth": "1992-01-10",
+    "nationality": "Ghana",
+    "contractUntil": "2017-05-31",
+    "marketValue": null
+  },
+  {
+    "name": "Dwight Gayle",
+    "position": "Centre-Forward",
+    "jerseyNumber": 9,
+    "dateOfBirth": "1990-10-20",
+    "nationality": "England",
+    "contractUntil": "2021-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Aleksandar Mitrovic",
+    "position": "Centre-Forward",
+    "jerseyNumber": 45,
+    "dateOfBirth": "1994-09-16",
+    "nationality": "Serbia",
+    "contractUntil": "2020-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Ayoze Pérez",
+    "position": "Centre-Forward",
+    "jerseyNumber": 17,
+    "dateOfBirth": "1993-07-29",
+    "nationality": "Spain",
+    "contractUntil": "2021-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Sammy Ameobi",
+    "position": "Centre-Forward",
+    "jerseyNumber": 34,
+    "dateOfBirth": "1992-05-01",
+    "nationality": "England",
+    "contractUntil": "2017-06-30",
+    "marketValue": null
+  },
+  {
+    "name": "Daryl Murphy",
+    "position": "Centre-Forward",
+    "jerseyNumber": 33,
+    "dateOfBirth": "1983-03-15",
+    "nationality": "Ireland",
+    "contractUntil": "2018-06-30",
+    "marketValue": null
+  }
+]

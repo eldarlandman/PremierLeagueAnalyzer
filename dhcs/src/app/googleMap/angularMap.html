@@ -1,0 +1,16 @@
+
+<ngui-map center="[0,0]" zoom="2" >
+  <marker *ngFor="let player of myjsondata" (click)="openWindow($event,player)"
+          [position]="[player.latitude,player.Longitude]"
+          (initialized$)="onMarkerInit($event)">
+
+  </marker>
+  <info-window id="details">
+    <div class="infowindow">
+      name : {{infoplayer ? infoplayer.name : ''}}<br>
+      jersey number : {{infoplayer ? infoplayer.jerseyNumber : ''}}<br>
+      position : {{infoplayer ? infoplayer.position : ''}}<br>
+    </div>
+  </info-window>
+
+</ngui-map>
